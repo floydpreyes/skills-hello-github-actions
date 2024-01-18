@@ -1,5 +1,4 @@
 <header>
-# so happy and thrielled
 <!--
   <<< Author notes: Course header >>>
   Include a 1280x640 image, course title in sentence case, and a concise description in emphasis.
@@ -8,7 +7,7 @@
 -->
 
 # Hello GitHub Actions
-
+# Oh so happy
 _Create a GitHub Action and use it in a workflow._
 
 </header>
